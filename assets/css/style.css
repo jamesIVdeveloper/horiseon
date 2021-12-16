@@ -137,7 +137,9 @@ main section h2 {
 
 /* aside style end */
 
-.footer {
+/* footer style start */
+
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -145,6 +147,8 @@ main section h2 {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
+
+/* footer style end */
